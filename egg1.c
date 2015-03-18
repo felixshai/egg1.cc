@@ -7,7 +7,7 @@ int main(void)
 	{
     	printf("egg- %i\n",i);
 	}
-	 
+	printf("Great! You got the eggs!\n")
   system("pause");
   return 0;
 }
